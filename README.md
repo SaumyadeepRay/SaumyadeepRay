@@ -1,5 +1,6 @@
-# 💫 About Me:
-A Passionate, Highly motivated and Detail-oriented developer from India<br><br>🌱 I’m currently learning DSA on NextLeap platform<br><br>📫 How to reach me saumyadeepray@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1i8t2Sns5qJ12BEjfRBr5XleMZdbLOElI/view?usp=sharing<br><br>⚡ Fun fact I enjoy playing cricket, riding my bike, and traveling
+<h1 align="center">Hi 👋, I'm Saumyadeep Ray</h1>
+<h3 align="center">A Passionate, Highly motivated and Detail-oriented developer from India</h3>
+<br>🌱 I’m currently learning DSA on NextLeap platform<br><br>📫 How to reach me saumyadeepray@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1i8t2Sns5qJ12BEjfRBr5XleMZdbLOElI/view?usp=sharing<br><br>⚡ Fun fact I enjoy playing cricket, riding my bike, and traveling
 
 
 ## 🌐 Socials:
