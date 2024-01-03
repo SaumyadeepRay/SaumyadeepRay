@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saumyadeep Ray</h1>
 <h3 align="center">A Passionate, Highly motivated and Detail-oriented developer from India</h3>
 <br> <img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-🌱 I’m currently learning DSA on NextLeap platform<br><br>📫 How to reach me saumyadeepray@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1i8t2Sns5qJ12BEjfRBr5XleMZdbLOElI/view?usp=sharing<br><br>⚡ Fun fact I enjoy playing cricket, riding my bike, and traveling
+🌱 I’m currently learning DSA on NextLeap platform<br><br>📫 How to reach me saumyadeepray@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1i8t2Sns5qJ12BEjfRBr5XleMZdbLOElI/view?usp=sharing<br><br>⚡ Fun fact I enjoy playing cricket, riding my bike, and travelling
 
 
 ## 🌐 Socials:
