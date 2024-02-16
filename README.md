@@ -3,11 +3,14 @@
 <h1 align="center">Hi 👋, I'm Saumyadeep Ray</h1>
 <h3 align="center">A Passionate, Highly motivated and Detail-oriented developer from India</h3>
 <br> <img align = "right" alt = "coding" width = "400" src = "https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
-🌱 I’m currently learning DSA on NextLeap platform<br><br>📫 How to reach me saumyadeepray@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1i8t2Sns5qJ12BEjfRBr5XleMZdbLOElI/view?usp=sharing<br><br>⚡ Fun fact I enjoy playing cricket, riding my bike, and travelling
+🌱 I’m currently learning DSA on NextLeap platform<br><br>📫 How to reach me saumyadeepray@gmail.com<br><br>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1nxi95DHUbMYf7ZKj6Yj3BZ1k1ZchY_RT/view?usp=sharing">view</a><br>
+<br>⚡ Fun fact I enjoy playing cricket, riding my bike, and travelling
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumyadeep-ray) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/SaumyadeepRay/)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
