@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Saumyadeep Ray</h1>
 <h3 align="center">A Passionate, Highly motivated and Detail-oriented developer from India</h3>
-<br> <img align = "right" alt = "coding" width = "400" src = "https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
-🌱 I’m currently learning DSA on NextLeap platform<br><br>📫 How to reach me saumyadeepray@gmail.com<br><br>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1nxi95DHUbMYf7ZKj6Yj3BZ1k1ZchY_RT/view?usp=sharing">view</a><br>
+<br> <img align = "right" alt = "coding" width = "350" src = "https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
+🌱 I’m currently working as an Associate Developer<br><br>📫 How to reach me saumyadeepray@gmail.com<br><br>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1EER5-bMX2Q7v1neni_I1hz269m3GiQjE/view?usp=sharing">view</a><br>
 <br>⚡ Fun fact I enjoy playing cricket, riding my bike, and travelling
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumyadeep-ray) 
@@ -14,6 +13,7 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=blue) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaumyadeepRay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaumyadeepRay&theme=dark&hide_border=false)<br/>
